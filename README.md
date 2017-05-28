@@ -1,2 +1,2 @@
 # RandomWalk
-plotting points. potential use for future random modeling purposes.
+plotting points. random modeling purposes.
